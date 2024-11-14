@@ -160,6 +160,6 @@ int main()
     for (const auto& el : bulls) {
         cout << el;
     }
-    cout << endl << "ББББ";
+    cout << endl << "ББББ"<<endl;
     cout<<"Конец работы программы";
 }
